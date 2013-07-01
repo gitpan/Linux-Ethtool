@@ -1,0 +1,13 @@
+Build.PL
+ethtool.h
+lib/Linux/Ethtool.pm
+lib/Linux/Ethtool.xs.PL
+lib/Linux/Ethtool/Constants.pm.PL
+lib/Linux/Ethtool/Settings.pm
+lib/Linux/Ethtool/Settings.xs
+lib/Linux/Ethtool/WOL.pm
+lib/Linux/Ethtool/WOL.xs
+MANIFEST			This list of files
+META.json
+META.yml
+ppport.h
