@@ -4,7 +4,7 @@
       "Daniel Collins <solemnwarning@solemnwarning.net>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.110440",
+   "generated_by" : "Module::Build version 0.4001, CPAN::Meta::Converter version 2.110440",
    "license" : [
       "perl_5"
    ],
@@ -23,22 +23,22 @@
       },
       "configure" : {
          "requires" : {
-            "Module::Build" : "0.38"
+            "Module::Build" : "0.40"
          }
       }
    },
    "provides" : {
       "Linux::Ethtool" : {
          "file" : "lib/Linux/Ethtool.pm",
-         "version" : "0.1"
+         "version" : "0.11"
       },
       "Linux::Ethtool::Settings" : {
          "file" : "lib/Linux/Ethtool/Settings.pm",
-         "version" : "0.1"
+         "version" : "0.11"
       },
       "Linux::Ethtool::WOL" : {
          "file" : "lib/Linux/Ethtool/WOL.pm",
-         "version" : "0.1"
+         "version" : "0.11"
       }
    },
    "release_status" : "stable",
@@ -47,5 +47,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.01"
+   "version" : "0.11"
 }
